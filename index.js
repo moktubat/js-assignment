@@ -23,8 +23,8 @@ function mindGame(myMindNumber){
 }
 
 // Perameter value declaration and output.
-// const myMindNumber = 5;
-// const gameOutput = mindGame(myMindNumber);
+const myMindNumber = 5;
+const gameOutput = mindGame(myMindNumber);
 // console.log(gameOutput);
 
 
@@ -57,8 +57,8 @@ function evenOdd(inputSre){
 }
 
 // Perameter value declaration and output.
-// const inputSre = 'chatgpt';
-// const strOutput = evenOdd(inputSre);
+const inputSre = 'chatgpt';
+const strOutput = evenOdd(inputSre);
 // console.log(strOutput);
 
 
@@ -92,8 +92,8 @@ function isLGSeven(inputNumber){
     }
 }
 // Perameter value declaration and output.
-// const inputNumber = 15;
-// const isLGOutput = isLGSeven(inputNumber);
+const inputNumber = 15;
+const isLGOutput = isLGSeven(inputNumber);
 // console.log(isLGOutput);
 
 
@@ -125,8 +125,8 @@ function findingBadData(numbers){
 }
 
 // Perameter value declaration and output.
-// const inputArray = [ -4, -9, -5, -33, -55 ];
-// const badData = findingBadData(inputArray);
+const inputArray = [ -4, -9, -5, -33, -55 ];
+const badData = findingBadData(inputArray);
 // console.log(badData);
 
 
@@ -167,8 +167,8 @@ function gemsToDiamond(aaliaGems, baliaGems, daliaGems) {
 
 // Perameter value declaration and output.
 
-// let aaliaGems = 100;
-// let baliaGems = 5;
-// let daliaGems = 1;
-// const diamondOutput = gemsToDiamond(aaliaGems, baliaGems, daliaGems);
+let aaliaGems = 100;
+let baliaGems = 5;
+let daliaGems = 1;
+const diamondOutput = gemsToDiamond(aaliaGems, baliaGems, daliaGems);
 // console.log(diamondOutput);
